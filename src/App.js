@@ -10,7 +10,6 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="Drone" />
         </main>
-        
 
         <footer className="App-footer">
           An{" "}
@@ -30,13 +29,13 @@ export default function App() {
             Asma
           </a>{" "}
           hosted on{" "}
-          {/* <a
-            href="https://app.netlify.com/teams/l-delara/overview"
+          <a
+            href="https://inquisitive-tiramisu-2a52b4.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
             Netlify
-          </a>{" "} */}
+          </a>{" "}
         </footer>
       </div>
     </div>
