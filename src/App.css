@@ -1,5 +1,10 @@
 body {
-  background: #f9f8fe;
+  background-color: #5f5f5fcc;
+  background-image: url("/src/diction3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
 }
 
 a {
@@ -13,15 +18,19 @@ a {
 
 .App-header {
   margin: 30px 0;
+  text-align: center;
+  font-size: 50px;
+  color:white
 }
 
 .App-logo {
   max-width: 200px;
-  display: block;
+  display: white;
   margin: 0 auto;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  color: white;
 }
